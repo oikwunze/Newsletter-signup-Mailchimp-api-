@@ -45,7 +45,3 @@ app.post("/", (req, res) => {
 });
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
-
-// api key b2895bcdb05bd93420cc1f4fc14e9ad2-us4
-
-// list 7b80f67abe
